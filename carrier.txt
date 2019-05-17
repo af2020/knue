@@ -1,0 +1,17 @@
+carrier	opinion	score
+UA	good	5
+AA	good	4
+B6	good	4
+DL	good	3
+EV	good	5
+MQ	good	4
+US	good	3
+WN	exellent	8
+VX	exellent	9
+FL	exellent	7
+AS	exellent	6
+9E	exellent	8
+F9	bad	3
+HA	bad	1
+YV	bad	2
+OO	bad	2
